@@ -1,0 +1,3 @@
+Zachary West is an innovative business litigator and a veteran of the United States Marine Corps. As a result, he has developed a keen sense of focus and discipline. He applies this multifaceted experience and perspective to provide outstanding counsel for individual and corporate clients in entertainment, pro sports, real estate development and investment, and more.
+
+West has been practicing with the founding partners of FROST LLP since graduating from Loyola Law School.

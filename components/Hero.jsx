@@ -1,13 +1,24 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
-// Importing heroImage from an external file, ensure the path is correct
-import heroImage from "../public/hero-image/heroImage.jsx";
 
 const Hero = () => {
   return (
-    <div id="hero" className="flex flex-col bg-center bg-cover bg-blend-overlay bg-fixed bg-black/30" style={{ backgroundImage: `url('/hero-image/color-group.webp')` }}>
-      <div className="flex-1 flex items-center min-h-screen">
+    <div
+      id="hero"
+      className="flex flex-col bg-center bg-cover bg-blend-overlay bg-fixed bg-black/30 z-[-2]"
+      style={{
+        position: "relative", // Add this style to make sure Image component works as expected
+      }}
+    >
+      <Image
+        src="/hero-image/color-group.webp"
+        layout="fill"
+        objectFit="cover"
+        quality={100}
+        alt="Background Image"
+      />
+      <div className="flex-1 flex items-center min-h-screen z-[2]">
         <div className="text-center mx-auto mt-40">
           <h1 className="text-6xl font-extrabold">
             Biglaw is over. Were whats next.
@@ -22,7 +33,7 @@ const Hero = () => {
         </div>
       </div>
       <div className="">
-        <p className="md:p-20 p-10 lg:text-2xl text-xl text-left">
+        <p className="md:p-20 p-10 lg:text-2xl text-xl text-left relative ">
           Frost LLPs litigators serve our clients fiercely at all times. We are
           BigLaw veterans who believe the test of a law firm shouldnt be
           whether the firm is large or the shoes are white. Our litigation-only

@@ -1,11 +1,12 @@
 import React from "react";
 import Link from "next/link";
+import Image from "next/image";
 
 const Chris = () => {
   return (
     <div className='md:grid md:grid-cols-5 gap-4 md:px-40 md:p-20 md:pt-20 md:min-h-screen mx-auto justify-center items-center'>
       <div className='col-span-2 flex justify-center md:justify-end md:items-start'>
-        <img
+        <Image
           src='/assets-chris/bw-chris.webp'
           alt='Christopher Frost'
           className='w-full h-3/4 md:w-full md:h-auto'

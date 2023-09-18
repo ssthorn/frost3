@@ -27,10 +27,10 @@ const Hero = () => {
       </div>
       <div className="">
       <p className='md:p-20 p-10 lg:text-2xl text-xl text-left'>
-        Frost LLP’s litigators serve our clients fiercely at all times. We are
-        BigLaw veterans who believe the test of a law firm shouldn’t be whether
+        Frost LLP's litigators serve our clients fiercely at all times. We are
+        BigLaw veterans who believe the test of a law firm shouldn't be whether
         the firm is large or the shoes are white. Our litigation- only firm is
-        built for efficiency–melding legal strategy, discipline, and cogent
+        built for efficiency-melding legal strategy, discipline, and cogent
         business advice to achieve the best outcome for our clients. We are
         unapologetically aggressive and profoundly successful. Our business
         litigation lawyers have a record of winning outstanding settlements,
@@ -47,7 +47,7 @@ const Hero = () => {
         litigation-avoidance strategies. 
         <br />
         <br />
-        We don’t wear white shoes. We don’t
+        We don't wear white shoes. We don't
         settle. We fight to win.
       </p>
       </div>

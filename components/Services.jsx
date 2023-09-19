@@ -6,7 +6,7 @@ const Services = () => {
             
             <div className='w-full text-center overflow-hidden'>
                 <h1 className="px-2 mb-2 mt-0 text-6xl font-extrabold leading-tight">Our Legal Services</h1>
-                <h2 className='text-xl md:text-2xl'>
+                <h2 className='text-xl md:text-2xl text-left p-4'>
             
             Once we develop a professional relationship with a client, we put that relationship before billable
 hours. Frost LLP’s litigation lawyers live and breathe civil procedure, strategy, and delivering
@@ -15,7 +15,7 @@ the following litigation areas:
             </h2>
             <br />
             <br />
-                <div className='grid grid-cols-3 gap-4 text-left'>
+                <div className='grid grid-cols-1 md:grid-cols-3 gap-4 text-left'>
                     {/* Card 1 */}
                     <div className="card card-compact w-96 bg-base-100 shadow-xl">
                         <figure><img src="" alt="litigation" /></figure>

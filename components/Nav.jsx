@@ -31,7 +31,7 @@ const Nav = () => {
               <ul className='menu menu-horizontal'>
                 {/* Navbar menu content here */}
                 <li className="">
-                  <Link className="" href=''>About Us</Link>
+                  <Link className="" href='/#about'>About Us</Link>
                 </li>
                 <li>
                   <Link href='/#team'>
@@ -64,7 +64,7 @@ const Nav = () => {
           <ul className='menu p-4 w-80 min-h-full bg-base-200'>
             {/* Sidebar content here */}
             <li>
-              <Link href=''>About Us</Link>
+              <Link href='/#about'>About Us</Link>
             </li>
             <li>
               <Link href='/#team'>Team</Link>

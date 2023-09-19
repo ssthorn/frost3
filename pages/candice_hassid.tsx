@@ -9,6 +9,8 @@ const Candice = () => {
         <Image
           src='/assets-candice/bw-candice.webp'
           alt='Candice Hassid'
+          height='440'
+          width='440'
           className='w-full h-3/4 md:w-full md:h-auto'
         />
       </div>

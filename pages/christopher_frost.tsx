@@ -9,8 +9,8 @@ const Chris = () => {
         <Image
           src='/assets-chris/bw-chris.webp'
           alt='Christopher Frost'
-          width='220'
-height='220'
+          width='440'
+height='440'
           className='w-full h-3/4 md:w-full md:h-auto'
         />
       </div>

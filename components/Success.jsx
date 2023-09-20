@@ -2,7 +2,7 @@ import React from "react";
 
 const Success = () => {
   return (
-    <div id='success' className="md:p-20">
+    <div id='success' className="md:p-20 overflow-hidden">
       <div className='w-full text-center'>
         <h1 className='px-2 mb-2 mt-0 md:text-6xl text-4xl font-extrabold leading-tight'>
           Why We Fight

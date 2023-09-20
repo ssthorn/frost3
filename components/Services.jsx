@@ -26,7 +26,7 @@ the following litigation areas:
 and Canada, seeking damages of over $100 million in parallel antitrust class actions in the
 Northern District of California.</p>
                             <div className="card-actions justify-end">
-                                <button className="btn btn-neutral">Learn More</button>
+                                
                             </div>
                         </div>
                     </div>
@@ -40,7 +40,7 @@ governance, shareholder, and business tort litigation to class action, breach of
 disputes across fiduciary duty, partnership and member, and accounting and financial services.
             </p>
                             <div className="card-actions justify-end">
-                                <button className="btn btn-neutral">Learn More</button>
+                                
                             </div>
                         </div>
                     </div>{/* Card 1 */}
@@ -52,7 +52,7 @@ disputes across fiduciary duty, partnership and member, and accounting and finan
 construction defects, mortgage and lending, title and boundary, and real estate investment
 litigation.</p>
                             <div className="card-actions justify-end">
-                                <button className="btn btn-neutral">Learn More</button>
+                                
                             </div>
                         </div>
                     </div>{/* Card 1 */}
@@ -65,7 +65,7 @@ Equal Employment Opportunity Commission; and National Labor Relations Board. We 
 handled traditional labor negotiations, harassment and discrimination litigation, and defended
 wage and hour actions.</p>
                             <div className="card-actions justify-end">
-                                <button className="btn btn-neutral">Learn More</button>
+                                
                             </div>
                         </div>
                     </div>{/* Card 1 */}
@@ -77,7 +77,7 @@ wage and hour actions.</p>
 entertainment, has substantial experience resolving intellectual property disputes including
 complex copyright and trademark matters.</p>
                             <div className="card-actions justify-end">
-                                <button className="btn btn-neutral">Learn More</button>
+                                
                             </div>
                         </div>
                     </div>{/* Card 1 */}
@@ -89,7 +89,7 @@ complex copyright and trademark matters.</p>
 succeeding with, cases involving public figures including athletes, musicians, social media
 creators and other talent in film, television, and new media.</p>
                             <div className="card-actions justify-end">
-                                <button className="btn btn-neutral">Learn More</button>
+                                
                             </div>
                         </div>
                     </div>{/* Card 1 */}
@@ -100,7 +100,7 @@ creators and other talent in film, television, and new media.</p>
                             <p>Our litigation attorneys have extensive experience advocating for creditors in bankruptcy and
 related adversary proceedings.</p>
                             <div className="card-actions justify-end">
-                                <button className="btn btn-neutral">Learn More</button>
+                                
                             </div>
                         </div>
                     </div>
@@ -113,7 +113,7 @@ related adversary proceedings.</p>
 our team has significant experience appearing before the Ninth Circuit United States Court of
 Appeals.</p>
                             <div className="card-actions justify-end">
-                                <button className="btn btn-neutral">Learn More</button>
+                                
                             </div>
                         </div>
                     </div>

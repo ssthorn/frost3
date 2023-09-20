@@ -9,7 +9,7 @@ const Contact = () => {
           Contact
         </h1> */}
       </div>
-      <div class='max-w-md mx-auto bg-base-100 shadow-xl p-6'>
+      <div class='max-w-4xl mx-auto bg-base-100 shadow-xl p-6'>
         <h2 class='md:text-6xl text-4xl font-extrabold text-center mb-4'>Contact Us</h2>
         <form action='#' method='POST'>
           <div class='mb-4'>
@@ -51,7 +51,7 @@ const Contact = () => {
           <div class='text-center'>
             <button
               type='submit'
-              class='px-6 py-3 btn btn-primary'
+              class='btn btn-neutral hover:btn-accent'
             >
               Submit
             </button>

@@ -1,5 +1,8 @@
 import { Html, Head, Main, NextScript } from 'next/document'
 import Nav from '../components/Nav.jsx'
+
+import TestNav from '../components/TestNav'
+
 import Footer from '../components/Footer.jsx'
 export default function Document() {
   return (
@@ -9,6 +12,7 @@ export default function Document() {
         
         <Main />
         <Nav />
+        {/* <TestNav /> */}
         <Footer />
         <NextScript />
       </body>

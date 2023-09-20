@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const Carousel = () => {
   return (
-    <div id='team' className="my-20 overflow-hidden">
+    <div id='team' className="my-20 overflow-hidden px-0">
         <div className="w-full text-center">
         <h1 className="px-2 mb-2 mt-0 md:text-6xl text-4xl font-extrabold leading-tight">Our Team</h1>
 
@@ -84,6 +84,11 @@ const Carousel = () => {
             </div>
           </Link>
         </div>
+        
+        
+      </div>
+      <div className='carousel rounded-box'>
+        
         <div className='carousel-item m-2'>
         <Link className='' href=''>
             <div className=''>

@@ -32,7 +32,7 @@ const Hero = () => {
             <button className="btn hover:btn-primary mt-10">Contact Us</button>
           </Link>
         </div>
-        <div className="container mx-auto p-6 text-white">
+        <div id='about' className="container mx-auto p-6 text-white">
         <p className=" lg:text-2xl text-xl text-left relative ">
   Frost LLP&apos;s litigators serve our clients fiercely at all times. We are
   BigLaw veterans who believe the test of a law firm shouldn&apos;t be

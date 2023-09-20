@@ -10,6 +10,7 @@ import Contact from '../components/Contact'
 
 import TestHero from '../components/TestHero'
 
+
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {

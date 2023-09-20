@@ -46,7 +46,7 @@ const Hero = () => {
           </p>
 
           <Link href="/#contact">
-            <button className="btn hover:btn-primary mt-10">Contact Us</button>
+            <button className="btn btn-neutral hover:btn-accent mt-10">Contact Us</button>
           </Link>
         </div>
         <div className="container mx-auto p-6 text-white">

@@ -16,10 +16,10 @@ const Success = () => {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-left">
       <div className='card w-96 bg-base-100 shadow-xl image-full  max-w-full'>
         <figure>
-          <img
+          {/* <img
             src='/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg'
             alt='bg image'
-          />
+          /> */}
         </figure>
         <div className='card-body'>
           <h2 className='card-title'>Success Story</h2>
@@ -36,10 +36,10 @@ const Success = () => {
       </div>
       <div className='card w-96 bg-base-100 shadow-xl image-full max-w-full'>
         <figure>
-          <img
+          {/* <img
             src='/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg'
             alt='bg image'
-          />
+          /> */}
         </figure>
         <div className='card-body'>
           <h2 className='card-title'>Success Story</h2>
@@ -53,10 +53,10 @@ const Success = () => {
       </div>
       <div className='card w-96 bg-base-100 shadow-xl image-full max-w-full'>
         <figure>
-          <img
+          {/* <img
             src='/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg'
             alt='bg image'
-          />
+          /> */}
         </figure>
         <div className='card-body'>
           <h2 className='card-title'>Success Story</h2>
@@ -73,10 +73,10 @@ const Success = () => {
       </div>
       <div className='card w-96 bg-base-100 shadow-xl image-full max-w-full'>
         <figure>
-          <img
+          {/* <img
             src='/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg'
             alt='bg image'
-          />
+          /> */}
         </figure>
         <div className='card-body'>
           <h2 className='card-title'>Success Story</h2>
@@ -90,10 +90,10 @@ const Success = () => {
       </div>
       <div className='card w-96 bg-base-100 shadow-xl image-full max-w-full'>
         <figure>
-          <img
+          {/* <img
             src='/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg'
             alt='bg image'
-          />
+          /> */}
         </figure>
         <div className='card-body'>
           <h2 className='card-title'>Success Story</h2>
@@ -107,10 +107,10 @@ const Success = () => {
       </div>
       <div className='card w-96 bg-base-100 shadow-xl image-full max-w-full'>
         <figure>
-          <img
+          {/* <img
             src='/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg'
             alt='bg image'
-          />
+          /> */}
         </figure>
         <div className='card-body'>
           <h2 className='card-title'>Success Story</h2>
@@ -124,10 +124,10 @@ const Success = () => {
       </div>
       <div className='card w-96 bg-base-100 shadow-xl image-full max-w-full'>
         <figure>
-          <img
+          {/* <img
             src='/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg'
             alt='bg image'
-          />
+          /> */}
         </figure>
         <div className='card-body'>
           <h2 className='card-title'>Success Story</h2>

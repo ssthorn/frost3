@@ -52,6 +52,28 @@ const Hero = () => {
         <div className="container mx-auto p-6 text-white">
           <p className="lg:text-2xl text-xl text-left relative">
             {/* Your content */}
+
+  Frost LLP&apos;s litigators serve our clients fiercely at all times. We are
+  BigLaw veterans who believe the test of a law firm shouldn&apos;t be
+  whether the firm is large or the shoes are white. Our litigation-only
+  firm is built for efficiency, melding legal strategy, discipline, and
+  cogent business advice to achieve the best outcome for our clients. We
+  are unapologetically aggressive and profoundly successful. Our business
+  litigation lawyers have a record of winning outstanding settlements,
+  awards, judgments, and complete defense verdicts for individual and
+  major corporate clients.
+  <br />
+  <br />
+  Based in Los Angeles, California, Frost LLP represents clients
+  worldwide on antitrust litigation, general commercial, partnership,
+  entertainment, fraud, business tort, bankruptcy, and construction
+  disputes. Our in-house experts, from BigLaw expats and former big media
+  CEOs to senior military veterans, change outcomes with advice on
+  executive compensation, employment law, and litigation-avoidance
+  strategies.
+  <br />
+  <br />
+  We don&apos;t wear white shoes. We don&apos;t settle. We fight to win.
           </p>
         </div>
       </div>

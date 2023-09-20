@@ -18,7 +18,7 @@ the following litigation areas:
             <br />
                 <div className='grid grid-cols-1 md:grid-cols-3 gap-4 text-left'>
                     {/* Card 1 */}
-                    <div className="card card-compact w-96 bg-base-100 shadow-xl">
+                    <div className="card card-compact w-96 bg-base-100 shadow-xl  max-w-full">
                         <figure><img src="" alt="litigation" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">Antitrust</h2>
@@ -31,7 +31,7 @@ Northern District of California.</p>
                         </div>
                     </div>
                     {/* Card 1 */}
-                    <div className="card card-compact w-96 bg-base-100 shadow-xl">
+                    <div className="card card-compact w-96 bg-base-100 shadow-xl max-w-full">
                         <figure><img src="" alt="litigation" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">Complex Business Litigation</h2>
@@ -44,7 +44,7 @@ disputes across fiduciary duty, partnership and member, and accounting and finan
                             </div>
                         </div>
                     </div>{/* Card 1 */}
-                    <div className="card card-compact w-96 bg-base-100 shadow-xl">
+                    <div className="card card-compact w-96 bg-base-100 shadow-xl max-w-full">
                         <figure><img src="" alt="litigation" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">Real Estate Litigation</h2>
@@ -56,7 +56,7 @@ litigation.</p>
                             </div>
                         </div>
                     </div>{/* Card 1 */}
-                    <div className="card card-compact w-96 bg-base-100 shadow-xl">
+                    <div className="card card-compact w-96 bg-base-100 shadow-xl max-w-full">
                         <figure><img src="" alt="litigation" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">Labor & Employment Litigation</h2>
@@ -69,7 +69,7 @@ wage and hour actions.</p>
                             </div>
                         </div>
                     </div>{/* Card 1 */}
-                    <div className="card card-compact w-96 bg-base-100 shadow-xl">
+                    <div className="card card-compact w-96 bg-base-100 shadow-xl max-w-full">
                         <figure><img src="" alt="litigation" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">IP Litigation</h2>
@@ -81,7 +81,7 @@ complex copyright and trademark matters.</p>
                             </div>
                         </div>
                     </div>{/* Card 1 */}
-                    <div className="card card-compact w-96 bg-base-100 shadow-xl">
+                    <div className="card card-compact w-96 bg-base-100 shadow-xl max-w-full">
                         <figure><img src="" alt="litigation" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">Entertainment</h2>
@@ -93,7 +93,7 @@ creators and other talent in film, television, and new media.</p>
                             </div>
                         </div>
                     </div>{/* Card 1 */}
-                    <div className="card card-compact w-96 bg-base-100 shadow-xl">
+                    <div className="card card-compact w-96 bg-base-100 shadow-xl max-w-full">
                         <figure><img src="" alt="litigation" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">Bankruptcy Litigation</h2>
@@ -105,7 +105,7 @@ related adversary proceedings.</p>
                         </div>
                     </div>
                     {/* Card 1 */}
-                    <div className="card card-compact w-96 bg-base-100 shadow-xl">
+                    <div className="card card-compact w-96 bg-base-100 shadow-xl max-w-full">
                         <figure><img src="" alt="litigation" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">Appellate Matters</h2>

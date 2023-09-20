@@ -6,8 +6,9 @@ export default function Document() {
     <Html className="scroll-smooth" lang="en">
       <Head />
       <body className='text-white'>
-        <Nav />
+        
         <Main />
+        <Nav />
         <Footer />
         <NextScript />
       </body>

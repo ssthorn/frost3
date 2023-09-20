@@ -14,12 +14,15 @@ export default function Home() {
   return (
     <main>
       <Hero />
+      <div className='max-w-[100vw] px-6 pb-16 xl:pr-2'>
+      
       {/* <About /> */}
       <Carousel />
       <Services />
       <Success />
       <Community />
       <Contact />
+      </div>
     </main>
   )
 }

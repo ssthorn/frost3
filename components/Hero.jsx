@@ -7,7 +7,7 @@ const Hero = () => {
     <div className="relative min-h-screen overflow-hidden">
       {/* Background image with parallax effect */}
       <div
-        className="absolute inset-0 z-[-2] overflow-hidden"
+        className="absolute inset-0 overflow-hidden"
         style={{
           backgroundImage: "url('/hero-image/color-group.webp')",
           backgroundAttachment: "fixed",
@@ -19,7 +19,7 @@ const Hero = () => {
       ></div>
 
       {/* Content */}
-      <div className="relative z-[2]">
+      <div className="relative">
         <div className="flex flex-col justify-center min-h-screen text-center">
           <h1 className="text-6xl font-extrabold text-white">
             Biglaw is over. We&apos;re what&apos;s next.
@@ -28,12 +28,12 @@ const Hero = () => {
             Frost LLP civil litigation attorneys.
           </p>
 
-          <Link href="">
+          <Link href="/#contact">
             <button className="btn hover:btn-primary mt-10">Contact Us</button>
           </Link>
         </div>
-        <div className="container mx-auto p-4 text-white">
-        <p className="md:p-20 lg:text-2xl text-xl text-left relative ">
+        <div className="container mx-auto p-6 text-white">
+        <p className=" lg:text-2xl text-xl text-left relative ">
   Frost LLP&apos;s litigators serve our clients fiercely at all times. We are
   BigLaw veterans who believe the test of a law firm shouldn&apos;t be
   whether the firm is large or the shoes are white. Our litigation-only

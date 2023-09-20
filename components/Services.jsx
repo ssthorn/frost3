@@ -6,7 +6,7 @@ const Services = () => {
         <div id='services' className='md:p-20'>
             
             <div className='w-full text-center overflow-hidden'>
-                <h1 className="px-2 mb-2 mt-0 text-6xl font-extrabold leading-tight">Our Legal Services</h1>
+                <h1 className="px-2 mb-2 mt-0 md:text-6xl text-4xl font-extrabold leading-tight">Our Legal Services</h1>
                 <h2 className='text-xl md:text-2xl text-left p-4'>
             
             Once we develop a professional relationship with a client, we put that relationship before billable

@@ -14,10 +14,10 @@ const Candice = () => {
           className='w-full h-3/4 md:w-full md:h-auto'
         />
       </div>
-      <div className='col-span-3 flex flex-col md:justify-start px-4 md:px-0 py-6 md:py-0'>
+      <div className='col-span-3 flex flex-col md:justify-start px-6 md:px-0 py-6 md:py-0'>
         <div className='flex w-full justify-between items-baseline'>
           <div>
-            <h2 className='text-6xl font-bold'>Candice Hassid</h2>
+            <h2 className='text-4xl font-bold'>Candice Hassid</h2>
             <h2 className='text-xl font-light'>Chief Operating Officer</h2>
           </div>
           <a href='https://www.linkedin.com/in/candice-hassid-78123215/'>
@@ -36,7 +36,7 @@ const Candice = () => {
           </a>
         </div>
 
-        <p className='mt-4'>
+        <p className='mt-4 prose'>
           Candice Hassid is the Chief Operating Officer of FROST LLP. She is a
           dynamic and trusted business operations leader with deep experience
           across the law and finance sectors. Hassid is responsible for direct

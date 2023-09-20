@@ -4,7 +4,7 @@ const Success = () => {
   return (
     <div id='success' className="md:p-20">
       <div className='w-full text-center'>
-        <h1 className='px-2 mb-2 mt-0 text-6xl font-extrabold leading-tight'>
+        <h1 className='px-2 mb-2 mt-0 md:text-6xl text-4xl font-extrabold leading-tight'>
           Why We Fight
         </h1>
         <h2 className='text-xl md:text-2xl text-left p-4'>

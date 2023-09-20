@@ -14,17 +14,17 @@ height='440'
           className='w-full h-3/4 md:w-full md:h-auto'
         />
       </div>
-      <div className='col-span-3 flex flex-col md:justify-start px-4 md:px-0 py-6 md:py-0'>
+      <div className='col-span-3 flex flex-col md:justify-start px-6 md:px-0 py-6 md:py-0'>
         <div className='flex w-full justify-between items-baseline'>
           <div>
-            <h2 className='text-6xl font-bold'>Christopher Frost</h2>
+            <h2 className='md:text-6xl text-4xl font-bold'>Christopher Frost</h2>
             <h2 className='text-xl font-light'>Founding Partner</h2>
           </div>
           <a href='https://www.linkedin.com/in/christopher-frost-750156118/'>
             <svg
               role='img'
-              width='32'
-              height='32'
+              width='24'
+              height='24'
               viewBox='0 0 24 24'
               className='fill-current'
               fill='white'
@@ -36,7 +36,7 @@ height='440'
           </a>
         </div>
 
-        <p className='mt-4'>
+        <p className='mt-4 prose'>
         As founding and name partner of FROST LLP, Chris Frost sets the tone for the firm’s approach
 to litigation, clients, and culture. He fights to win, seeks the best interests of his clients at all
 times, and advocates for the inclusion of new voices in the legal community. Frost is a BigLaw

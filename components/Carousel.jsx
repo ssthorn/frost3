@@ -6,7 +6,7 @@ const Carousel = () => {
   return (
     <div id='team' className="my-20 overflow-hidden">
         <div className="w-full text-center">
-        <h1 className="px-2 mb-2 mt-0 text-6xl font-extrabold leading-tight">Our Team</h1>
+        <h1 className="px-2 mb-2 mt-0 md:text-6xl text-4xl font-extrabold leading-tight">Our Team</h1>
 
         </div>
       <div className='carousel rounded-box'>

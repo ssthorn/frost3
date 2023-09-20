@@ -10,10 +10,10 @@ const Contact = () => {
         </h1> */}
       </div>
       <div class='max-w-md mx-auto bg-base-100 shadow-xl p-6'>
-        <h2 class='text-6xl font-extrabold text-center mb-4'>Contact Us</h2>
+        <h2 class='md:text-6xl text-4xl font-extrabold text-center mb-4'>Contact Us</h2>
         <form action='#' method='POST'>
           <div class='mb-4'>
-            <label for='name' class='block text-gray-600 font-medium'>
+            <label for='name' class='block font-medium'>
               Name
             </label>
             <input
@@ -25,25 +25,25 @@ const Contact = () => {
             ></input>
           </div>
           <div class='mb-4'>
-            <label for='email' class='block text-gray-600 font-medium'>
+            <label for='email' class='block font-medium'>
               Email
             </label>
             <input
               type='email'
               id='email'
               name='email'
-              class='w-full px-4 py-2 border'
+              class='w-full px-4 py-2'
               required
             ></input>
           </div>
           <div class='mb-4'>
-            <label for='message' class='block text-gray-600 font-medium'>
+            <label for='message' class='block font-medium'>
               Message
             </label>
             <textarea
               id='message'
               name='message'
-              class='w-full px-4 py-2 border '
+              class='w-full px-4 py-2 '
               rows='4'
               required
             ></textarea>

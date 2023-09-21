@@ -28,20 +28,30 @@ const Hero = () => {
         ref={parallaxRef}
         className="absolute inset-0 overflow-hidden"
         style={{
-          backgroundImage: "url('/hero-image/color-group.webp')",
+          // backgroundImage: "url('/hero-image/color-group.webp')",
+          // backgroundImage: "url('/FROST website banner final.jpeg')",
           backgroundRepeat: "no-repeat",
-          backgroundSize: "cover",
-          backgroundPosition: "center",
+          backgroundSize: "fill",
+          backgroundPosition: "center top",
         }}
       ></div>
 
       {/* Content */}
       <div className="relative">
         <div className="flex flex-col justify-center min-h-screen text-center">
-          <h1 className="text-6xl font-extrabold text-white">
+          <div className="flex w-full justify-center p-6">
+          <Image
+      src="/FROST website banner final.jpeg"
+      width={500}
+      height={500}
+      alt="Picture of the author"
+    />
+          </div>
+        
+          <h1 className="md:text-6xl text-4xl font-extrabold text-white">
             Biglaw is over. We&apos;re what&apos;s next.
           </h1>
-          <p className="font-light text-3xl text-white mt-5">
+          <p className="font-light md:text-3xl text-xl text-white mt-5">
             Frost LLP civil litigation attorneys.
           </p>
 

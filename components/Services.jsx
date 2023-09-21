@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 const Services = () => {
     return (
-        <div id='services' className='md:p-20'>
+        <div id='services' className='md:p-20 max-w-[100vw] px-6 pb-16'>
             
             <div className='w-full text-center overflow-hidden'>
                 <h1 className="px-2 mb-2 mt-0 md:text-6xl text-4xl font-extrabold leading-tight">Our Legal Services</h1>

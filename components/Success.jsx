@@ -2,7 +2,7 @@ import React from "react";
 
 const Success = () => {
   return (
-    <div id='success' className="md:p-20 overflow-hidden">
+    <div id='success' className="md:p-20 overflow-hidden max-w-[100vw] px-6 pb-16">
       <div className='w-full text-center'>
         <h1 className='px-2 mb-2 mt-0 md:text-6xl text-4xl font-extrabold leading-tight'>
           Why We Fight
@@ -13,7 +13,7 @@ const Success = () => {
           clients and achieved the following:
         </h2>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-left">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-left py-6">
       <div className='card w-96 bg-base-100 shadow-xl image-full  max-w-full'>
         <figure>
           {/* <img

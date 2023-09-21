@@ -2,12 +2,12 @@ import React from "react";
 
 const Community = () => {
   return (
-    <div id='community'>
+    <div id='community' className="max-w-[100vw] px-6 pb-16">
       <div className='w-full text-center'>
         <h1 className='px-2 mb-2 mt-0 md:text-6xl text-4xl font-extrabold leading-tight'>
           Our Legal Community
         </h1>
-        <p className='lg:text-2xl text-xl text-left p-4'>
+        <p className='text-xl md:text-2xl text-left p-4'>
           We are aggressive in legal matters, but we show a different side when
           it comes to our firm&apos;s culture and our commitment to legal education.
           We care deeply about providing on-the-job mentorship and creating

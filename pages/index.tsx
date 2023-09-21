@@ -18,15 +18,12 @@ export default function Home() {
     <main>
       {/* <Hero /> */}
       <TestHero />
-      <div className='max-w-[100vw] px-6 pb-16'>
-      
       {/* <About /> */}
       <Carousel />
       <Services />
       <Success />
       <Community />
       <Contact />
-      </div>
     </main>
   )
 }

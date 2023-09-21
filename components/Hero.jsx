@@ -9,7 +9,8 @@ const Hero = () => {
       <div
         className="absolute inset-0 overflow-hidden"
         style={{
-          backgroundImage: "url('/hero-image/color-group.webp')",
+          // backgroundImage: "url('/hero-image/color-group.webp')",
+          backgroundImage: "url('/FROST website banner final.jpeg')",
           backgroundAttachment: "fixed",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",

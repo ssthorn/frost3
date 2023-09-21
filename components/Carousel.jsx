@@ -14,7 +14,7 @@ const Carousel = () => {
           <Link className='' href='/christopher_frost'>
             <div className=''>
               <Image
-                src='/assets-chris/color-chris copy 2.webp'
+                src='/assets-chris/bw-chris.webp'
                 alt='Christopher'
                 width='220'
                 height='220'
@@ -33,7 +33,7 @@ const Carousel = () => {
         <Link className='' href='/candice_hassid'>
             <div className=''>
               <Image
-                src='/assets-candice/color-candice.webp'
+                src='/assets-candice/bw-candice.webp'
                 alt='Candice'
                 width='220'
                 height='220'
@@ -51,7 +51,7 @@ const Carousel = () => {
         <Link className='' href=''>
             <div className=''>
               <Image
-                src='/assets-john/color-john.webp'
+                src='/assets-john/bw-john.webp'
                 alt='John'
                 width='220'
                 height='220'
@@ -70,7 +70,7 @@ const Carousel = () => {
         <Link className='' href=''>
             <div className=''>
               <Image
-                src='/assets-josh/color-josh.webp'
+                src='/assets-josh/bw-josh.webp'
                 alt='Josh'
                 width='220'
                 height='220'

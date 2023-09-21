@@ -48,7 +48,7 @@ const Carousel = () => {
           </Link>
         </div>
         <div className='carousel-item m-2'>
-        <Link className='' href=''>
+        <Link className='' href='/john_d_maatta'>
             <div className=''>
               <Image
                 src='/assets-john/bw-john.webp'
